@@ -1,6 +1,5 @@
 """
-Adapt from https://github.com/openvla/openvla/blob/main/prismatic/vla/datasets/rlds/oxe/transforms.py
-transforms.py
+From https://github.com/Tavish9/any4lerobot/blob/main/openx2lerobot/oxe_utils/transforms.py
 
 Defines a registry of per-dataset standardization transforms for each dataset in Open-X Embodiment.
 
